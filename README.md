@@ -1,1 +1,1 @@
-# String Related Method
+# Number Related Method
