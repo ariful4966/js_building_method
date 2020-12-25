@@ -1,2 +1,2 @@
-# Number Related Method
+# Array Related Method
 
