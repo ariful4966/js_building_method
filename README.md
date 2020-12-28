@@ -16,3 +16,11 @@
 
 > :cyclone: *This method find one element according to defining condition*
 
+### findIndex()
+
+> :wolf: *We can search out any element exact position number from one array*
+
+### forEach()
+
+> :blue_heart: *Output every array element one by one. Like for loop*
+
