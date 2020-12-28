@@ -28,5 +28,7 @@
 
 > :purple_heart: *get index number defining element from array. we can define the which can search start from index. and we don't result for defining element. we get output -1*
 
-
+### join()
+ 
+ > :broken_heart: *In this method we join every array element to eatch others*
 
