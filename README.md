@@ -32,3 +32,9 @@
  
  > :broken_heart: *In this method we join every array element to eatch others*
 
+ ### map()
+
+ > :green_heart: *we can get array every elements and modify any way  and return new array. it also work same as forEatch() method*
+
+
+
