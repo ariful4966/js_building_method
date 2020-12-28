@@ -24,3 +24,9 @@
 
 > :blue_heart: *Output every array element one by one. Like for loop*
 
+### indexOf()
+
+> :purple_heart: *get index number defining element from array. we can define the which can search start from index. and we don't result for defining element. we get output -1*
+
+
+
