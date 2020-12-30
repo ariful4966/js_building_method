@@ -1,1 +1,1 @@
-# Object Method
+# Math Method
